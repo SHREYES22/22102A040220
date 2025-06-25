@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class removing_target_element{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
